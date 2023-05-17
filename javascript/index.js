@@ -18,5 +18,5 @@ passwordInput.addEventListener("input", (event) => {
 });
 
 submitButton.addEventListener("click", () => {
-  window.location.href = "https://www.example.com/pagina-di-accesso";
+  window.location.href = "https://www.youtube.com";
 });
